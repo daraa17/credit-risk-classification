@@ -2,11 +2,7 @@
 
 Analysis Overview
 
-Goal
-
-Create a machine learning model to predict high-risk loans based on the dataset information.
-
-Dataset
+Goal : Create a machine learning model to predict high-risk loans based on the dataset information.
 
 Information within the dataset includes:
 
@@ -18,10 +14,7 @@ Information within the dataset includes:
 -Derogatory Marks
 -Total Debt
 -Loan Status
-Results:
 
-Macro avg 0.95 Weighted avg 0.99
+Results: Macro avg 0.95 Weighted avg 0.99
 
-Summary
-
-The model has high accuracy on predicting high-risk loans.
+Summary : The model has high accuracy on predicting high-risk loans.
