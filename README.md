@@ -10,14 +10,14 @@ Dataset
 
 Information within the dataset includes:
 
-Loan Size
-Interest Rate
-Borrower Income
-Debt-to-Income Ratio
-Num of Accounts
-Derogatory Marks
-Total Debt
-Loan Status
+-Loan Size
+-Interest Rate
+-Borrower Income
+-Debt-to-Income Ratio
+-Num of Accounts
+-Derogatory Marks
+-Total Debt
+-Loan Status
 Results:
 
 Macro avg 0.95 Weighted avg 0.99
